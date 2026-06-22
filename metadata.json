@@ -1,0 +1,6 @@
+{
+  "name": "E-Commerce Recommender",
+  "description": "An interactive e-commerce recommendation system displaying collaborative filtering, latent space matrix factorization, and content-based NLP with Gemini reasoning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
