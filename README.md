@@ -1,6 +1,6 @@
 # E-Commerce Recommender System
 
-A highly interactive full-stack e-commerce simulation environment built with **React**, **TypeScript**, and **Express**. The app showcases dynamic real-time recommendation updates using a custom hybrid algorithm blending **Collaborative Filtering (Cosine Similarity)**, **Content-Based Filtering (Jaccard NLP Tag matching)**, and latent-factor **Stochastic Gradient Descent (SGD) SVD Matrix Factorization**.
+This showcases dynamic real-time recommendation updates using a custom hybrid algorithm blending **Collaborative Filtering (Cosine Similarity)**, **Content-Based Filtering (Jaccard NLP Tag matching)**, and latent-factor **Stochastic Gradient Descent (SGD) SVD Matrix Factorization**.
 
 ---
 
