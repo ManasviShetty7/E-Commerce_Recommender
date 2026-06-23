@@ -6,15 +6,15 @@ A highly interactive full-stack e-commerce simulation environment built with **R
 
 ## 📸 Screenshots
 
-To display screenshots in this README, create a folder named `screenshots/` in your repository root, place your images inside them, and commit.
-
-### 🛍️ Client Simulation Storefront Workspace
-![E-commerce Storefront Mockup](screenshots/storefront.png)
-*Fully interactive storefront showing pricing in INR (₹) where shopper actions instantly feed back into the mathematical model.*
-
-### 📊 Recommendation Lab & Latent Coordinates Mapping (K=2)
-![Mathematical Latent Coordinates Projection Plane](screenshots/recommendation_lab.png)
-*Stochastic Gradient Descent (SGD) decomposition mapping user profiles and products together onto a Cartesian plane.*
+\
+### 1.
+![E-commerce Storefront Mockup](https://github.com/ManasviShetty7/E-Commerce_Recommender/blob/main/ERE%201.png)
+### 2.
+![E-commerce Storefront Mockup](https://github.com/ManasviShetty7/E-Commerce_Recommender/blob/main/ERE%202.png)
+### 3.
+![E-commerce Storefront Mockup](https://github.com/ManasviShetty7/E-Commerce_Recommender/blob/main/ERE%203.png)
+### 4.
+![E-commerce Storefront Mockup](https://github.com/ManasviShetty7/E-Commerce_Recommender/blob/main/ERE%204.png)
 
 ---
 
