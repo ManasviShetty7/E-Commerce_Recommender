@@ -6,7 +6,6 @@ A highly interactive full-stack e-commerce simulation environment built with **R
 
 ## 📸 Screenshots
 
-\
 ### 1.
 ![E-commerce Storefront Mockup](https://github.com/ManasviShetty7/E-Commerce_Recommender/blob/main/ERE%201.png)
 ### 2.
